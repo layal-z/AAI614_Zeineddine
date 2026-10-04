@@ -1,0 +1,21 @@
+{
+  "criterion_coverage_passed": true,
+  "criteria_covered": 8,
+  "criteria_expected": 8,
+  "exact_source_quotations": 26,
+  "quotations_checked": 26,
+  "status_changes": [
+    {
+      "criterion_id": "C006",
+      "model_status": "demonstrated",
+      "reviewed_status": "partially_demonstrated"
+    },
+    {
+      "criterion_id": "C008",
+      "model_status": "not_demonstrated",
+      "reviewed_status": "requires_human_confirmation"
+    }
+  ],
+  "model_statuses_matching_human_review": 6,
+  "unlisted_explanation_references": []
+}
