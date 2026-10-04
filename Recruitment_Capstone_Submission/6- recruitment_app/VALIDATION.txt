@@ -1,0 +1,4 @@
+Eight offline tests: simulated API responses and real MCP subprocess retrieval.
+Final uploaded deidentified case: both candidates have valid completed approval chains.
+Both candidates opened on all five app pages without API calls or case changes.
+No API key is bundled. New paid generations through the browser were not tested here.
