@@ -1,4 +1,0 @@
-Candidate_001
-All eight approval safeguard checks passed.
-Original case unchanged: True
-Source: supplied cell #34 output.

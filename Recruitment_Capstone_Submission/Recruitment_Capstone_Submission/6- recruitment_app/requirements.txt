@@ -1,5 +1,0 @@
-streamlit==1.65.0
-openai==3.24.0
-mcp==1.30.0
-python-docx==1.2.0
-pypdf==6.10.0
